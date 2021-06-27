@@ -15,11 +15,12 @@ function Main({increment,reset}){
 
     useEffect(()=>{
         setPerso(()=> {return [...shuffle(perso)]})
+    // eslint-disable-next-line react-hooks/exhaustive-deps
     },[]);
 
     const handleClick = (key) => {
         setPerso(()=> {return [...shuffle(perso)]});
-        if (selected[key] == true){
+        if (selected[key] === true){
             setSelected(chequeo)
             reset();
         } else{
