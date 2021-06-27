@@ -3,7 +3,7 @@
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
 </p>
 
-> In this project i tried to recreate a "Memory Card game".
+> In this project i tried to recreate a "Memory Card game". I tried to use only functional components and apply some hooks like "useState" and "useEffect".
 
 ### ✨ [Live View](https://vlunaklick.github.io/memory_card/)
 
