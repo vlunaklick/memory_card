@@ -67,7 +67,7 @@ let personajes = [
     {src:"https://www.radiodemente.cl/wp-content/uploads/2020/04/Leorio.jpg",name:"Leorio",id:"leorio"},
     {src:"https://sm.ign.com/t/ign_latam/screenshot/default/meruem2_sb8r.1280.jpg",name:"Meruem",id:"meruem"},
     {src:"https://i.pinimg.com/736x/33/25/b3/3325b3ab5ee08ded70e1454656467f4c.jpg",name:"Killua",id:"killua"},
-    {src:"http://pm1.narvii.com/7081/f1d5ddec0828727fdd13e1537455ab55fab373afr1-1080-1070v2_uhq.jpg",name:"illumi",id:"illumi"},
+    {src:"https://i.pinimg.com/474x/b3/46/9b/b3469b100b8c0e042ad96e34ed8f7b85.jpg",name:"illumi",id:"illumi"},
     {src:"https://pm1.narvii.com/6297/77de566ac5af1f2352defbb54e853324073e6dd2_hq.jpg",name:"Ging",id:"ging"},
     {src:"https://areajugones.sport.es/wp-content/uploads/2020/04/netero.jpg",name:"Netero",id:"netero"},
     {src:"https://assets.puzzlefactory.pl/puzzle/286/478/original.jpg",name:"Feitan",id:"feitan"},
