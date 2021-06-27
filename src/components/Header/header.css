@@ -8,6 +8,7 @@
     color: var(--font-header);
     display: flex;
     padding: 1rem;
+    align-items: center;
 }
 
 .pageTit{
@@ -25,4 +26,10 @@
     display: flex;
     flex-direction: column;
     width: 100%;
+}
+
+@media screen and (max-width: 688px){
+    .pageTit{
+        font-size: 2rem;
+    }
 }

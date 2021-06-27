@@ -1,0 +1,5 @@
+.mainCont{
+    width: 100%;
+    min-height: calc(100vh - 101.5px);
+    background-color: var(--bg-maincont);
+}
