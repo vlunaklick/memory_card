@@ -1,0 +1,28 @@
+:root{
+    --header-col: #1B1A17;
+}
+
+
+.headerC{
+    background-color: var(--header-col);
+    color: var(--font-header);
+    display: flex;
+    padding: 1rem;
+}
+
+.pageTit{
+    margin: 0;
+    font-size: 3rem;
+    width: 100%;
+}
+
+.headP{
+    margin: 0;
+    margin: 0.5rem 0;
+}
+
+.points{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
