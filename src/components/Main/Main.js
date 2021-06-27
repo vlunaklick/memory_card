@@ -60,7 +60,7 @@ export default Main
 
 
 let personajes = [
-    {src:"https://i.pinimg.com/originals/d5/53/d5/d553d5e7a8e0f9e9fc75afe5f8e2be5b.jpg", name: "Hisoka", id: "hisoka"}, 
+    {src:"https://pbs.twimg.com/media/E3MQRLCXoAAqhT7.jpg:large", name: "Hisoka", id: "hisoka"}, 
     {src:"https://www.tierragamer.com/wp-content/uploads/2019/08/Hunter-x-Hunter-Gon-450x300.jpg", name: "Gon", id:"gon"},
     {src:"https://i.pinimg.com/originals/27/ca/b9/27cab9588503c762f88e6311751ebddf.jpg", name: "Kurapika", id:"kurapika"},
     {src:"https://pbs.twimg.com/media/EvHYsbtWgAgjJ6S.jpg",name:"Chrollo",id:"chrollo"},
