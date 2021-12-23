@@ -16,7 +16,7 @@
 
 ## My Profile
 
-> In my profile you can see route to convert into a fullstack web developer.
+> In my profile you can see my route to convert into a fullstack web developer.
 
 ## Show your support
 
