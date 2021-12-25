@@ -9,6 +9,9 @@
     display: flex;
     align-items: center;
     padding: 0.5rem 0 ;
+    position: sticky;
+    top: 0;
+    z-index: 2;
 }
 
 .pageTit{
@@ -20,6 +23,8 @@
 
 .headP{
     margin: 0;
+    text-align: right;
+    transform: translate(-3%);
 }
 
 .points{
@@ -31,6 +36,10 @@
 
 @media screen and (max-width: 688px){
     .pageTit{
-        font-size: 2rem;
+        font-size: 1.6rem;
+    }
+    .headP{
+        text-align: right;
+        transform: translate(-6%);
     }
 }

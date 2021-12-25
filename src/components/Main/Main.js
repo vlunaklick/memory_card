@@ -69,7 +69,7 @@ let personajes = [
 		id: 'hisoka',
 	},
 	{
-		src: 'https://www.tierragamer.com/wp-content/uploads/2019/08/Hunter-x-Hunter-Gon-450x300.jpg',
+		src: 'https://www.giantbomb.com/a/uploads/scale_small/2/27436/2722697-gon_freecss_2617.jpg',
 		name: 'Gon',
 		id: 'gon',
 	},
