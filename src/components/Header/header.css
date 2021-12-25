@@ -1,6 +1,6 @@
 :root{
-    --header-col: #111827;
-    --font-header: #F9FAFB;
+    --header-col: #064E3B;
+    --font-header: #ECFDF5;
 }
 
 .headerC{
@@ -37,6 +37,7 @@
 @media screen and (max-width: 688px){
     .pageTit{
         font-size: 1.6rem;
+        transform: translate(4%);
     }
     .headP{
         text-align: right;

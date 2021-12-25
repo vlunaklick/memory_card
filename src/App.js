@@ -15,6 +15,9 @@ function App() {
 		if (points > bestscore) {
 			setBestscore(points)
 		}
+		if (points === 12) {
+			alert('You have won!')
+		}
 		// eslint-disable-next-line react-hooks/exhaustive-deps
 	}, [points])
 
