@@ -1,6 +1,10 @@
+:root{
+    --bg-main: #F3F4F6;
+}
+
 .mainCont{
     min-height: calc(100vh - 6.34375rem);
-    background-color: var(--bg-maincont);
+    background-color: var(--bg-main);
     display: flex;
     flex-direction: column;
     align-items: center;
