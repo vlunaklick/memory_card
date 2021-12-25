@@ -3,12 +3,12 @@
 }
 
 .mainCont{
-    min-height: calc(100vh - 6.34375rem);
+    min-height: calc(100vh - 3.875rem);
     background-color: var(--bg-main);
     display: flex;
     flex-direction: column;
     align-items: center;
-    padding: 1rem 1rem 0 1rem;
+    padding:  1rem 2rem 2rem 2rem;
 }
 
 .subtitle{
