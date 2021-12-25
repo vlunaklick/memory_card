@@ -1,5 +1,5 @@
 .mainCont{
-    min-height: calc(100vh - 101.5px);
+    min-height: calc(100vh - 6.34375rem);
     background-color: var(--bg-maincont);
     display: flex;
     flex-direction: column;

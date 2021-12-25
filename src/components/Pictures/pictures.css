@@ -6,9 +6,9 @@
 }
 
 .marcoPic{
-    width: 300px;
-    height: 400px;
-    border: 1px solid var(--border-marco);
+    width: 18.75rem;
+    height: 25rem;
+    border: .0625rem solid var(--border-marco);
 }
 
 .picIn{
@@ -33,7 +33,7 @@ h4{
     box-shadow: 0 0 2px var(--sombra-marco);
     cursor: pointer;
     transition: 0.2s;
-    border-radius: 5px;
+    border-radius: .3125rem;
 }
 
 .marcoCar:hover{

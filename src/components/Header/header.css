@@ -2,7 +2,6 @@
     --header-col: #132C33;
 }
 
-
 .headerC{
     background-color: var(--header-col);
     color: var(--font-header);
